@@ -54,4 +54,4 @@ The integrated workflow utilizes the standard `limma` and `tidyverse` suites wit
 ---
 
 ## 🔗 8. Live Interactive Report
-[👉 CLICK HERE TO VIEW THE FULL INTERACTIVE MULTI-OMICS REPORT](https://github.io)
+[👉 CLICK HERE TO VIEW THE FULL INTERACTIVE MULTI-OMICS REPORT](https://github.com/phyonyeinchan/multi-omics-cardiovascular-interaction/blob/main/omics_cardio_analysis.html)
